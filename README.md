@@ -8,32 +8,32 @@
 
 ## 🖥️ Frontend
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Responsive Design](https://img.shields.io/badge/Responsive_Design-4FC08D?style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react&logoColor=000000) ![Next.js](https://img.shields.io/badge/Next.js-ffffff?style=for-the-badge&logo=next.js&logoColor=000000) ![React Native](https://img.shields.io/badge/React_Native-ffffff?style=for-the-badge&logo=react&logoColor=000000) ![JavaScript](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=000000) ![TypeScript](https://img.shields.io/badge/TypeScript-ffffff?style=for-the-badge&logo=typescript&logoColor=000000) ![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-ffffff?style=for-the-badge&logo=redux&logoColor=000000) ![Zustand](https://img.shields.io/badge/Zustand-ffffff?style=for-the-badge&logoColor=000000)  
+![HTML5](https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=000000) ![Responsive Design](https://img.shields.io/badge/Responsive_Design-ffffff?style=for-the-badge&logoColor=000000) ![CSS3](https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=000000) ![SCSS](https://img.shields.io/badge/SCSS-ffffff?style=for-the-badge&logo=sass&logoColor=000000) ![Bootstrap](https://img.shields.io/badge/Bootstrap-ffffff?style=for-the-badge&logo=bootstrap&logoColor=000000) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-ffffff?style=for-the-badge&logo=tailwind-css&logoColor=000000)
 
 ---
 
 ## ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-ffffff?style=for-the-badge&logo=node.js&logoColor=000000) ![Express](https://img.shields.io/badge/Express-ffffff?style=for-the-badge&logoColor=000000) ![PHP](https://img.shields.io/badge/PHP-ffffff?style=for-the-badge&logo=php&logoColor=000000) ![REST API](https://img.shields.io/badge/REST_API-ffffff?style=for-the-badge&logoColor=000000) ![Postman](https://img.shields.io/badge/Postman-ffffff?style=for-the-badge&logo=postman&logoColor=000000) ![Cypress](https://img.shields.io/badge/Cypress-ffffff?style=for-the-badge&logo=cypress&logoColor=000000)
 
 ---
 
 ## 🗄️ Databases
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-ffffff?style=for-the-badge&logo=mysql&logoColor=000000) ![SQLite](https://img.shields.io/badge/SQLite-ffffff?style=for-the-badge&logo=sqlite&logoColor=000000) ![MongoDB](https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=000000) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-ffffff?style=for-the-badge&logo=postgresql&logoColor=000000)
 
 ---
 
 ## 🔧 Tools & CI/CD
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI/CD-2088FF?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=000000) ![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=000000) ![Prisma](https://img.shields.io/badge/Prisma-ffffff?style=for-the-badge&logo=prisma&logoColor=000000) ![Docker](https://img.shields.io/badge/Docker-ffffff?style=for-the-badge&logo=docker&logoColor=000000) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-ffffff?style=for-the-badge&logo=githubactions&logoColor=000000) ![Vercel](https://img.shields.io/badge/Vercel-ffffff?style=for-the-badge&logo=vercel&logoColor=000000) ![CI/CD](https://img.shields.io/badge/CI/CD-ffffff?style=for-the-badge&logoColor=000000)
 
 ---
 
 ## 🎨 Design & UI
 
-![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-ffffff?style=for-the-badge&logo=adobexd&logoColor=000000)
 
 ---
 
