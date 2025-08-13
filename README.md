@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Aleksandar Cvetković
+# 📢 Hello, I'm Aleksandar Cvetković
 
-**Senior Full-Stack Developer** | React, Next.js, Tailwind CSS | 15+ years of experience
+**Senior Frontend Engineer |** React + Next.js | 15+ Yrs in Web Dev
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 🚀 Featured Projects
 
-- **E-SEO** – [https://e-seo.info](https://e-seo.info) – Corporate SEO agency website
+- **E-SEO** – [https://e-seo.info](https://e-seo.info) – SEO agency website
 - **eGarant** – [https://e-garant.vercel.app](https://e-garant.vercel.app) – Web app for warranty management
 - **eGarant – Digitalne Garancije** – [Google Play Link](https://play.google.com/store/apps/details?id=com.acdeveloper.egarant) – Mobile warranty tracking app
 - **ECOGLASNIK** – [https://eco.glasnik.info](https://www.demo.ecoglasnik.org/) – Community reporting platform
@@ -24,7 +24,7 @@
 
 - Email: [aleksandar@e-seo.info](mailto:aleksandar@e-seo.info)
 - Portfolio: [https://www.e-seo.info](https://www.e-seo.info)
-- LinkedIn: [aleksandar-cvetkovic](https://www.linkedin.com/in/aleksandar-cvetkovi%C4%87-672259)
+- LinkedIn: [https://www.linkedin.com/in/aleksandar-cvetkovi%C4%87-67225950](https://www.linkedin.com/in/aleksandar-cvetkovi%C4%87-67225950)
 - GitHub: [A-Cdeveloper](https://github.com/A-Cdeveloper)
 
 ---
