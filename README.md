@@ -14,7 +14,7 @@
 
 ## ⚙️ Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-66788e?style=for-the-badge&logo=node.js&logoColor=ffffff) ![Express](https://img.shields.io/badge/Express-66788e?style=for-the-badge&logoColor=ffffff) ![PHP](https://img.shields.io/badge/PHP-66788e?style=for-the-badge&logo=php&logoColor=ffffff) ![REST API](https://img.shields.io/badge/REST_API-66788e?style=for-the-badge&logoColor=ffffff) ![Postman](https://img.shields.io/badge/Postman-66788e?style=for-the-badge&logo=postman&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/Node.js-66788e?style=for-the-badge&logo=node.js&logoColor=ffffff) ![Express](https://img.shields.io/badge/Express-66788e?style=for-the-badge&logoColor=ffffff) ![WebSockets](https://img.shields.io/badge/WebSockets-66788e?style=for-the-badge&logo=socket.io&logoColor=ffffff) ![PHP](https://img.shields.io/badge/PHP-66788e?style=for-the-badge&logo=php&logoColor=ffffff) ![REST API](https://img.shields.io/badge/REST_API-66788e?style=for-the-badge&logoColor=ffffff) ![Postman](https://img.shields.io/badge/Postman-66788e?style=for-the-badge&logo=postman&logoColor=ffffff)
 
 ---
 
