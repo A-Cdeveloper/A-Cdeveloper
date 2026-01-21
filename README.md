@@ -44,13 +44,13 @@
 
 ## 🚀 Featured Projects
 
+- **RealEstate** – [https://realestate.e-seo.info/](https://realestate.e-seo.info/) – Real Estate Plaform
+- **Traffic Accident Visualization** – [https://www.tav.e-seo.info/](https://www.tav.e-seo.info/) – application for visualizing traffic accident data
 - **ECOGLASNIK** – [https://www.demo.ecoglasnik.org](https://www.demo.ecoglasnik.org) – Community reporting platform
 - **eGarant – Digitalne Garancije** – [Google Play Link](https://play.google.com/store/apps/details?id=com.acdeveloper.egarant) – Mobile warranty tracking app
 - **E-SEO** – [https://www.e-seo.info](https://www.e-seo.info) – SEO agency website
-- **Autoseller** – [https://brrm-project-1.vercel.app/](https://brrm-project-1.vercel.app/) – Autoseller - Premium Vehicle Dealership
-- **RealEstate** – [https://realestate.e-seo.info/](https://realestate.e-seo.info/) – Real Estate Plaform
-- **eGarant** – [https://e-garant.vercel.app](https://e-garant.vercel.app) – Web app for warranty management
 - **PMS 2023** – [https://pms-react-2023.vercel.app](https://pms-react-2023.vercel.app) – Project Management System
+- **Autoseller** – [https://brrm-project-1.vercel.app/](https://brrm-project-1.vercel.app/) – Autoseller - Premium Vehicle Dealership
 
 ---
 
