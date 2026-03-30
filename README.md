@@ -45,6 +45,7 @@
 ## 🚀 Featured Projects
 
 - **RealEstate** – [https://realestate.e-seo.info/](https://realestate.e-seo.info/) – Real Estate Plaform
+- **Fiskalix** – [https://fiskalix-api.vercel.app](https://fiskalix-api.vercel.app) – Full-stack application for storing invoices from the Serbian Tax Authority
 - **Traffic Accident Visualization** – [https://www.tav.e-seo.info/](https://www.tav.e-seo.info/) – application for visualizing traffic accident data
 - **ECOGLASNIK** – [https://www.demo.ecoglasnik.org](https://www.demo.ecoglasnik.org) – Community reporting platform
 - **eGarant – Digitalne Garancije** – [Google Play Link](https://play.google.com/store/apps/details?id=com.acdeveloper.egarant) – Mobile warranty tracking app
